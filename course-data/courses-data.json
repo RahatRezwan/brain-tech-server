@@ -1,0 +1,333 @@
+[
+   {
+      "id": "63575e0fceccba7e58bbcd31",
+      "category": {
+         "category_id": 1,
+         "category_name": "web"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1oeHcVXvB9wF-WEZPqUQ1VVcQLNwPWXF5",
+      "name": "Web Development Master Class",
+      "tagline": "Learn to code and become web developer in 2022 with MERN stack.",
+      "desciption": "Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously). Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead. This is the tutorial youve been looking for to become a modern web developer in 2022. It doesn't just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. ",
+      "what_you_learn": [
+         "Skills that allows you to apply web dev job",
+         "Learn Mordern tecnologies",
+         "Build 10+ projects",
+         "Build a professional portfolio",
+         "Work as a freelance web dev",
+         "Learn React and Redux",
+         "Use nodejs to write server side code",
+         "Master in fandamental concepts of web development"
+      ],
+      "Requirements": [
+         "A computer",
+         "No previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 57318,
+         "stars": 4.7,
+         "students": 200000
+      },
+      "Author": {
+         "name": "Andrei Neagoie"
+      },
+      "price": 150.99
+   },
+   {
+      "id": "63575e0fb0b475b58d113d46",
+      "category": {
+         "category_id": 2,
+         "category_name": "Data Engineering"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1SGQOeItMKBiZnnwWCW62_JAmW8HPe5Q_",
+      "name": "Learn How To Build An AI",
+      "tagline": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications",
+      "desciption": "Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means. Plus, you'll get downloadable Python code templates for every AI you build in the course. This makes building truly unique AI as simple as changing a few lines of code. If you unleash your imagination, the potential is unlimited. Where most courses simply bombard you with dense theory and set you on your way, we believe in developing a deep understanding for not only what you're doing, but why you're doing it. That's why we don't throw complex mathematics at you, but focus on building up your intuition in coding AI making for infinitely better results down the line.",
+      "what_you_learn": [
+         "Build an AI",
+         "Make virtual self driving car",
+         "Solve Real world problems",
+         "Deep learning",
+         "Master in Data Science"
+      ],
+      "Requirements": [
+         "A computer",
+         "previous python coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 21318,
+         "stars": 4.4,
+         "students": 186000
+      },
+      "Author": {
+         "name": "Luka Anicin"
+      },
+      "price": 139.99
+   },
+   {
+      "id": "63575e0fbceed5e332393575",
+      "category": {
+         "category_id": 3,
+         "category_name": "Programming"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1EO0YNJh4S7tA3bXR1tAb8xELXoYCQTjD",
+      "name": "Learn to code with C#",
+      "tagline": "Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. More than just the C# basics!",
+      "desciption": "Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth! C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs.Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer!",
+      "what_you_learn": [
+         "C# basics",
+         "Learn how to use variables, methods, loops, conditions",
+         "Understand OOP",
+         "Work with files and text",
+         "Learn How to handle error"
+      ],
+      "Requirements": [
+         "A computer",
+         "no previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 22191,
+         "stars": 4.5,
+         "students": 98000
+      },
+      "Author": {
+         "name": "Denis Panjta"
+      },
+      "price": 109.99
+   },
+   {
+      "id": "63575e0f9a6e9f012909d4b3",
+      "category": {
+         "category_id": 4,
+         "category_name": "Networking"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1nqmznVxolp3xO27kp2op0y7TRz36MKVM",
+      "name": "Introduction to Cloud Computing",
+      "tagline": "Learn Cloud Computing concepts and AWS Basics. Master AWS fundamentals and hands-on skills on Amazon Web Services AWS",
+      "desciption": "This Introduction to Cloud Computing on Amazon AWS course takes you from the AWS basics to being a competent AWS cloud practitioner. You will learn general cloud computing concepts and AWS from fundamentals right through to advanced concepts. You will also build hands-on skills using many of the core Amazon Web Services (AWS) services. Ideal for beginners - absolutely no cloud computing experience is required! We use a highly visual and effective method of teaching cloud computing and AWS concepts using diagrams and animations (no bullet-point slides!). There are lots of hands-on exercises using an Amazon Web Services (AWS) free tier account to give you practical experience. If you are interested in moving into a high-paying career working with cloud computing services - this is the best way to get started. You will build knowledge from beginner level to advanced concepts, with plenty of opportunities to practice what you are learning.",
+      "what_you_learn": [
+         "Learn general cloud computing concepts",
+         "Learn the basics of Amazon Web Services AWS",
+         "Gain an understanding of the fundamental systems on which the cloud is based",
+         "Develop hands-on skills using core Amazon Web Services (AWS) services"
+      ],
+      "Requirements": [
+         "A computer",
+         "no previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 16417,
+         "stars": 4.6,
+         "students": 124000
+      },
+      "Author": {
+         "name": "Neal Davis"
+      },
+      "price": 111.99
+   },
+   {
+      "id": "63575e0f473821048b15fbca",
+      "category": {
+         "category_id": 5,
+         "category_name": "Cyber Security"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1t4pKKst6duPHi3rGIAken6Mb-OI08foT",
+      "name": "Cyber Security: Absolute Beginner to Expert",
+      "tagline": "Cyber Security made easy for absolute beginners - learn from an industry expert with PhD",
+      "desciption": "An ABSOLUTE beginner level comprehensive course that includes step-by-step explanations of core security concepts along with follow-up quizzes and hands on labs to ensure a solid learning for the course taker. Designed by a CyberSecurity expert with a PhD degree and premium Cybersecurity certifications, this course has been designed to make it extremely simple to learn complex Cyber Security concepts. Designed for beginner Cyber Security professionals, this course will help you master the major domains and launch a successful career in the Cyber Security industry. It is also a good starting point for students targeting Cyber Security certifications like CompTIASecurity+ and CEH. Please check out our free samples videos to see how complex concepts have been explained in an easy way!",
+      "what_you_learn": [
+         "Security Governance, Network Security, Cyber Attacks, Web Application Security, Malware",
+         "Practical Cyber Security skills through hands on labs",
+         "Prepare for Cyber Security interviews by learning common interview questions and how to respond",
+         "Prepare for in-demand Cyber Security certifications such as CompTIA Security+ and CEH"
+      ],
+      "Requirements": [
+         "A computer",
+         "no previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 2086,
+         "stars": 4.5,
+         "students": 26000
+      },
+      "Author": {
+         "name": "Logix Academy"
+      },
+      "price": 121.99
+   },
+   {
+      "id": "63575e0f6e917ef72c9a6d61",
+      "category": {
+         "category_id": 2,
+         "category_name": "Data Engineering"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1JTgYg1mpLlB8h-TQcEPIkGtDHbpccXa3",
+      "name": "Complete Data Science Bootcamp",
+      "tagline": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+      "desciption": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist. And how can you do that?  Universities have been slow at creating specialized data science programs. (not to mention that the ones that exist are very expensive and time consuming) Most online courses focus on a specific topic and it is difficult to understand how the skill they teach fit in the complete picture The Solution    Data science is a multidisciplinary field. It encompasses a wide range of topics. Understanding of the data science field and the type of analysis carried out Mathematics, Statistics, Python, Applying advanced statistical techniques in Python, Data Visualization, Machine Learning, Deep Learning. Each of these topics builds on the previous ones. And you risk getting lost along the way if you don't acquire these skills in the right order. For example, one would struggle in the application of Machine Learning techniques before understanding the underlying Mathematics. Or, it can be overwhelming to study regression analysis in Python before knowing what a regression is.",
+      "what_you_learn": [
+         "The course provides the entire toolbox you need to become a data scientist",
+         "Impress interviewers by showing an understanding of the data science field",
+         "Learn how to pre-process data",
+         "Understand the mathematics behind Machine Learning",
+         "Start coding in Python and learn how to use it for statistical analysis"
+      ],
+      "Requirements": [
+         "A computer",
+         "previous python coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 113960,
+         "stars": 4.6,
+         "students": 535676
+      },
+      "Author": {
+         "name": "365 Careers"
+      },
+      "price": 199.99
+   },
+   {
+      "id": "63575e0f9980dfa067eb784c",
+      "category": {
+         "category_id": 5,
+         "category_name": "Cyber Security"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1-S6v-pDZ-_-EoaMQ34D-G3zlZp5oT6cw",
+      "name": "Complete Ethical Hacking Bootcamp 2022: Zero to Mastery",
+      "tagline": "Learn Ethical Hacking + Penetration Testing! Use real techniques by black hat hackers then learn to defend against them!",
+      "desciption": "Just updated with all modern ethical hacking tools and best practices for 2022! Join a live online community of over 400,000+ students and a course taught by industry experts. This course will take you from absolute beginning of setting up your own hacking lab (like Kali Linux) on your machine, all the way to becoming a security expert that is able to use all the hacking techniques used by hackers and defend against them! Whether you are a complete beginner looking to become an ethical hacker, or you're a student looking to learn about securing computer systems, or you are a programmer who is looking to improve their security online and prevent attacks from hackers on your website, this course will dive you into the world of hacking and penetration testing. We even teach you Python programming from scratch for those that want to learn to program their own tools for hacking and penetration testing.",
+      "what_you_learn": [
+         "Learn Ethical Hacking from scratch & All 5 phases of Penetration Testing",
+         "Learn Python from scratch so you are able to write your own tools for ethical hacking",
+         "Setting up your Hacking Lab: Kali Linux and Virtual Machines",
+         "Create trojans, viruses, keyloggers for ethical hacking",
+         "Learn how to bypass Firewalls & Intrusion Detection System with Advanced Scanning"
+      ],
+      "Requirements": [
+         "A computer",
+         "no previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 9128,
+         "stars": 4.7,
+         "students": 62000
+      },
+      "Author": {
+         "name": "Zero to Mastery"
+      },
+      "price": 80.99
+   },
+   {
+      "id": "63575e0f09e42696da531d21",
+      "category": {
+         "category_id": 2,
+         "category_name": "Data Engineering"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=16fir17Au5KPIYimkLLi1sLBi-sE1IfD-",
+      "name": "Complete Machine Learning & Data Science Bootcamp 2022",
+      "tagline": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+      "desciption": "This is a top selling Machine Learning and Data Science course just updated this month with the latest trends and skills for 2022! Become a complete Data Scientist and Machine Learning engineer! Join a live online community of 600,000+ engineers and a course taught by industry experts that have actually worked for large companies in places like Silicon Valley and Toronto. Graduates of Andrei's courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies. You will go from zero to mastery! Learn Data Science and Machine Learning from scratch, get hired, and have fun along the way with the most modern, up-to-date Data Science course on Brain Tech (we use the latest version of Python, Tensorflow 2.0 and other libraries). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Machine Learning tutorials anymore. We are pretty confident that this is the most comprehensive and modern course you will find on the subject anywhere (bold statement, we know).",
+      "what_you_learn": [
+         "Become a Data Scientist and get hired",
+         "Master Machine Learning and use it on the job",
+         "Deep Learning, Transfer Learning and Neural Networks using the latest Tensorflow 2.0",
+         "Use modern tools that big tech companies like Google, Apple, Amazon and Facebook use",
+         "Real life case studies and projects to understand how things are done in the real world",
+         "A portfolio of Data Science and Machine Learning projects to apply for jobs in the industry with all code and notebooks provided"
+      ],
+      "Requirements": [
+         "A computer",
+         "previous python coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 12765,
+         "stars": 4.6,
+         "students": 76704
+      },
+      "Author": {
+         "name": "Zero to Mastery"
+      },
+      "price": 199.99
+   },
+   {
+      "id": "63575e0f4664f5a71f3ecf20",
+      "category": {
+         "category_id": 3,
+         "category_name": "Programming"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1mmGELhvC8g2p76sCcEeCK-Pb3c4FvFYV",
+      "name": "The Complete Python Pro Bootcamp",
+      "tagline": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+      "desciption": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of this platform!   100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. We will take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a Python developer. The course includes over 60 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.",
+      "what_you_learn": [
+         "You will master the Python programming language by building 100 unique projects over 100 days.",
+         "You will learn automation, game, app and web development, data science and machine learning all using Python.",
+         "Create a portfolio of 100 Python projects to apply for developer jobs",
+         "You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.",
+         "Be able to build fully fledged websites and web apps with Python"
+      ],
+      "Requirements": [
+         "A computer",
+         "no previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 146766,
+         "stars": 4.7,
+         "students": 648122
+      },
+      "Author": {
+         "name": "Dr. Angela Yu"
+      },
+      "price": 150
+   },
+   {
+      "id": "63575e0f6a191dfe29e54b0f",
+      "category": {
+         "category_id": 1,
+         "category_name": "web"
+      },
+      "img": "https://drive.google.com/uc?export=view&id=1zidBEkm9EGY1_uaPiSqQJ1kgsp3r7KPR",
+      "name": "The Complete Front-End Web Development Course!",
+      "tagline": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!",
+      "desciption": "If you would like to get started as a front-end web developer, you are going to LOVE this course! Work on projects ranging from a simple HTML page to a complete JavaScript based Google Chrome extension. We will work on 3 class projects throughout this course: Simple text site - We will use what we learned in the HTML sections to create a simple text site. This project will help you learn HTML structure and the essential elements. Fallout inspired Pip-Boy - We will take what we learned in the CSS and Bootstrap sections of the course to code a Pip-Boy from the game Fallout. This project will help you learn the design elements of modern web development. Google Chrome extension - We will finish the course by programming a JavaScript based Google Chrome extension. This project will help you understand the logical parts of web development. This course covers the most popular web development frameworks, and will get you started on your path towards becoming a full-stack web developer!",
+      "what_you_learn": [
+         "Build a simple HTML text site",
+         "Style web pages using CSS",
+         "Program websites with JavaScript",
+         "Build and publish a Google Chrome Extension"
+      ],
+      "Requirements": [
+         "A computer",
+         "No previous coding experience needed",
+         "All tools used in these course are free",
+         "Hard work and dedication"
+      ],
+      "Rating": {
+         "ratings": 13287,
+         "stars": 4.3,
+         "students": 425515
+      },
+      "Author": {
+         "name": "Andrei Neagoie"
+      },
+      "price": 50.99
+   }
+]
