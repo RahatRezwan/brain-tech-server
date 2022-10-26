@@ -1,0 +1,26 @@
+[
+   {
+      "id": "63575e0f4664f5a71f3eyh20",
+      "img": "https://drive.google.com/uc?export=view&id=1c398T7KeRfAce5ZSWlaFxOapiZdfhmDy",
+      "question": "What is CORS?",
+      "answer": "CORS stands for Cross Origin Resource Sharing. It actually allows us to make secure our API. This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API. To conclude, CORS is a browser security feature that restricts cross-origin HTTP requests with other servers and specifies which domains access your resources."
+   },
+   {
+      "id": "63576e0f4664f5a71f3eyh22",
+      "img": "https://drive.google.com/uc?export=view&id=1o25D-sSwaWDEQvrlh7DPHNRxRB8F7fGO",
+      "question": "Why are you using firebase? What other options do you have to implement authentication?",
+      "answer": "The Firebase authentication is the feature most apps require to recognize the identity of the users. I am using firebase because it helps me to crete authentication easily. Also the UI is user friendly and documentation is also easy to understand for the beginners. The are many others alternative options for authentication. Such as MongoDB, Okta, Auth0, Amazon Cognito and so on."
+   },
+   {
+      "id": "63578e0f4664f5a71f3eyh25",
+      "img": "https://drive.google.com/uc?export=view&id=1k9XnZgXCqm7hwvnALB4eFYlYO8TJEysf",
+      "question": "How does the private route work?",
+      "answer": "React Private roue components checks if the user is logged in or not. To do that we have to create a private route component. After that we have to put the rout element, which we want to make private, as a child of the private route components. Our site must have the authentication activated. If the auth is activated and user is logged in then the user can visit the private route. Because Private route component renders its child when a user is logged in. This is how private route is work."
+   },
+   {
+      "id": "63577e0f4664f5a71f3eyh29",
+      "img": "https://drive.google.com/uc?export=view&id=1ECP1jCOQLsjOjKj13QZo68MIUyuSLEY1",
+      "question": "What is Node? How does Node work?",
+      "answer": "Node is a JavaScript Runtime. Javascript was created for client-side scripting inside script tag in web browsers. This was the main drawback of JavaScript. Before node came out javascript was only used for client side. After the launching of nodejs, it allows us to run js code inside our machine. Nodejs allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. Node can, therefore, be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications. Node.js is written in C, C++, and JavaScript, and it is built on the open-source V8 JavaScript engine which also powers JS in browsers such as Google Chrome. As V8 supports new features in JavaScript, they are incorporated into Node. Nodejs runs actually with the help of V8 engine."
+   }
+]
