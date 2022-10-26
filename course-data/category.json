@@ -1,0 +1,22 @@
+[
+   {
+      "category_id": 1,
+      "category_name": "Web"
+   },
+   {
+      "category_id": 2,
+      "category_name": "Data Engineering"
+   },
+   {
+      "category_id": 3,
+      "category_name": "Programming"
+   },
+   {
+      "category_id": 4,
+      "category_name": "Networking"
+   },
+   {
+      "category_id": 5,
+      "category_name": "Cyber Security"
+   }
+]
