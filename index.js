@@ -7,6 +7,7 @@ app.use(cors());
 
 const courses = require("./course-data/courses-data.json");
 const categories = require("./course-data/category.json");
+const blogs = require("./blog-data/blog.json");
 
 /* Home Route */
 app.get("/", (req, res) => {
@@ -39,6 +40,18 @@ app.get("/course/:courseId", (req, res) => {
    const courseId = req.params.courseId;
    const currentCourse = courses.find((c) => c.id === courseId);
    res.send(currentCourse);
+});
+
+/* All Blogs Route */
+app.get("/blogs", (req, res) => {
+   res.send(blogs);
+});
+
+/* Single Blog by id */
+app.get("/blog/:id", (req, res) => {
+   const id = req.params.id;
+   const currentBlog = blogs.find((b) => b.id === id);
+   res.send(currentBlog);
 });
 
 app.listen(port, () => {
