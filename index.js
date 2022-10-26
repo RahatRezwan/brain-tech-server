@@ -23,6 +23,17 @@ app.get("/courses", (req, res) => {
    res.send(courses);
 });
 
+/* Display all courses by category */
+app.get("/courses/:categoryId", (req, res) => {
+   const categoryId = req.params.categoryId;
+   if (categoryId === "06") {
+      res.send(courses);
+   } else {
+      const currentCourses = courses.filter((c) => c.category.category_id === categoryId);
+      res.send(currentCourses);
+   }
+});
+
 /* Route to display a single course details */
 app.get("/course/:courseId", (req, res) => {
    const courseId = req.params.courseId;

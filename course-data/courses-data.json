@@ -2,7 +2,7 @@
    {
       "id": "63575e0fceccba7e58bbcd31",
       "category": {
-         "category_id": 1,
+         "category_id": "01",
          "category_name": "Web"
       },
       "img": "https://drive.google.com/uc?export=view&id=1oeHcVXvB9wF-WEZPqUQ1VVcQLNwPWXF5",
@@ -38,7 +38,7 @@
    {
       "id": "63575e0fb0b475b58d113d46",
       "category": {
-         "category_id": 2,
+         "category_id": "02",
          "category_name": "Data Engineering"
       },
       "img": "https://drive.google.com/uc?export=view&id=1SGQOeItMKBiZnnwWCW62_JAmW8HPe5Q_",
@@ -71,7 +71,7 @@
    {
       "id": "63575e0fbceed5e332393575",
       "category": {
-         "category_id": 3,
+         "category_id": "03",
          "category_name": "Programming"
       },
       "img": "https://drive.google.com/uc?export=view&id=1EO0YNJh4S7tA3bXR1tAb8xELXoYCQTjD",
@@ -104,7 +104,7 @@
    {
       "id": "63575e0f9a6e9f012909d4b3",
       "category": {
-         "category_id": 4,
+         "category_id": "04",
          "category_name": "Networking"
       },
       "img": "https://drive.google.com/uc?export=view&id=1nqmznVxolp3xO27kp2op0y7TRz36MKVM",
@@ -136,7 +136,7 @@
    {
       "id": "63575e0f473821048b15fbca",
       "category": {
-         "category_id": 5,
+         "category_id": "05",
          "category_name": "Cyber Security"
       },
       "img": "https://drive.google.com/uc?export=view&id=1t4pKKst6duPHi3rGIAken6Mb-OI08foT",
@@ -168,7 +168,7 @@
    {
       "id": "63575e0f6e917ef72c9a6d61",
       "category": {
-         "category_id": 2,
+         "category_id": "02",
          "category_name": "Data Engineering"
       },
       "img": "https://drive.google.com/uc?export=view&id=1JTgYg1mpLlB8h-TQcEPIkGtDHbpccXa3",
@@ -201,7 +201,7 @@
    {
       "id": "63575e0f9980dfa067eb784c",
       "category": {
-         "category_id": 5,
+         "category_id": "05",
          "category_name": "Cyber Security"
       },
       "img": "https://drive.google.com/uc?export=view&id=1-S6v-pDZ-_-EoaMQ34D-G3zlZp5oT6cw",
@@ -234,7 +234,7 @@
    {
       "id": "63575e0f09e42696da531d21",
       "category": {
-         "category_id": 2,
+         "category_id": "02",
          "category_name": "Data Engineering"
       },
       "img": "https://drive.google.com/uc?export=view&id=16fir17Au5KPIYimkLLi1sLBi-sE1IfD-",
@@ -268,7 +268,7 @@
    {
       "id": "63575e0f4664f5a71f3ecf20",
       "category": {
-         "category_id": 3,
+         "category_id": "03",
          "category_name": "Programming"
       },
       "img": "https://drive.google.com/uc?export=view&id=1mmGELhvC8g2p76sCcEeCK-Pb3c4FvFYV",
@@ -301,7 +301,7 @@
    {
       "id": "63575e0f6a191dfe29e54b0f",
       "category": {
-         "category_id": 1,
+         "category_id": "01",
          "category_name": "Web"
       },
       "img": "https://drive.google.com/uc?export=view&id=1zidBEkm9EGY1_uaPiSqQJ1kgsp3r7KPR",
