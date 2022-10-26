@@ -6,11 +6,18 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require("./course-data/courses-data.json");
+const categories = require("./course-data/category.json");
 
 app.get("/", (req, res) => {
    res.send("Hello from brain tech server");
 });
 
+/* route to display all categories */
+app.get("/categories", (req, res) => {
+   res.send(categories);
+});
+
+/* route to display all courses data */
 app.get("/courses", (req, res) => {
    res.send(courses);
 });
