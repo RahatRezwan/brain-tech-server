@@ -10,4 +10,4 @@ This server is create for Brain Tech Client Side. It provides some api for brain
 -  Clone the repository file.
 -  Then run 'npm i'.
 -  After that to start the server write command 'nodemon index.js'
--  Then you can visit <a href="http://localhost:5000/">http://localhost:5000/</a> to check the server is running or not
+-  Then you can visit <a target="_blank" href="http://localhost:5000/">http://localhost:5000/</a> to check the server is running or not
